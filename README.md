@@ -32,5 +32,4 @@ Use the cleanupMiniDump.sh Script to clean up the retrieved file, which should b
 ```
 cleanupMiniDump.sh [PATH]
 ```
-{:start="3"}
 3. Use the decompress Visual Studio project to decompress the dump file.
